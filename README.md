@@ -9,7 +9,6 @@ This is a fully functional Inventory Management system that lets you create part
 ## Java 11
 - JavaFX
 - JavaDocs
-- MySQL Server
 - IntelliJ IDEA CE IDE
 
 ### Example - Main
